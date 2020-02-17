@@ -11,6 +11,7 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
+    implementation("org.seleniumhq.selenium:selenium-java:2.41.0")
 }
 
 tasks {
