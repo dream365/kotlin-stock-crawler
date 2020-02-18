@@ -1,4 +1,4 @@
-package com.dream365.kotlin
+package com.dream365.kotlin.driver
 
 import org.openqa.selenium.chrome.ChromeDriver
 
